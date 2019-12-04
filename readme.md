@@ -1,14 +1,14 @@
 # Ask me anything!
 
-## [Ask a question](https://github.com/sorrycc/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/sorrycc/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/lazuardi1981/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/lazuardi1981/ama/issues?q=is%3Aissue+is%3Aclosed)
 
-See my [favorite/popular/frequently asked](https://github.com/sorrycc/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions.
+See my [favorite/popular/frequently asked](https://github.com/lazuardi1981/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions.
 
 I get a lot of questions by email. This way anyone can read the answer.
 
 **If you'd rather not ask your question publicly**, send me an email (address below) and I can post the question anonymously for you.
 
-Subscribe for updates by [watching the repo](https://github.com/sorrycc/ama/watchers).
+Subscribe for updates by [watching the repo](https://github.com/lazuardi1981/ama/watchers).
 
 Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
